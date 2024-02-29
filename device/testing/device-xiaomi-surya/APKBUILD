@@ -4,7 +4,7 @@
 
 pkgname=device-xiaomi-surya
 pkgdesc="Xiaomi POCO X3 NFC"
-pkgver=1.1
+pkgver=1.3
 pkgrel=1
 url="https://postmarketos.org"
 license="MIT"
@@ -48,6 +48,7 @@ nonfree_firmware() {
 		firmware-xiaomi-surya-modem
 		firmware-xiaomi-surya-touchscreen
 		firmware-xiaomi-surya-wlan
+		firmware-xiaomi-surya-venus
 		soc-qcom-sm7150-nonfree-firmware
 		"
 	mkdir "$subpkgdir"

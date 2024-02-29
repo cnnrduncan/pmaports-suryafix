@@ -1,5 +1,5 @@
 pkgname=firmware-xiaomi-surya
-pkgver=1.1
+pkgver=1.3
 pkgrel=0
 pkgdesc="Firmware for Xiaomi POCO X3 NFC"
 subpackages="
